@@ -1,1 +1,5 @@
-"Completely replaced content for M23CSA504 branch." 
+<<<<<<< HEAD
+"Completely replaced content for M23CSA503 branch." 
+=======
+"Modified content for M23CSA505 branch." 
+>>>>>>> M23CSA505
